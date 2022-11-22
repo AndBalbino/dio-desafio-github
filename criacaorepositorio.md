@@ -12,7 +12,7 @@
 - Git add
 - Git commit 
 
-### Descrevendo o primeiro comando. 
+### Primeiro comando. 
 
 **Git init:** O comando Git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 Sempre que estivermos lidando com o terminal é necessário sempre colocar o nome do programa no inicio para chamar o terminal de comandos especificos do Git, por isso que todo comando do Git leva a palavra *"Git"* no inicio e o comando especifico logo após. 
@@ -21,7 +21,7 @@ Sempre que estivermos lidando com o terminal é necessário sempre colocar o nom
 Em seguida o usuário chama o comando *Git Init* para poder iniciar e possibilitar que o Git comece de fato a gerenciar e versionar o código, após esse comando o próprio Git retornara uma mensagem confirmando que foi iniciado um repositório vazio dentro da pasta padrão criada pelo usuário. 
 Mesmo sendo uma pasta oculta gerencial do Git é possivel ver essa pasta usando a *flag* especifica (ls -a) e logo em seguida é possivel ver a pasta oculta gerencial do Git. 
 
-### Descrevendo o segundo comando.
+### Segundo comando.
 
 **Git add:** O comando Git add adiciona uma alteração no diretório ativo à área de staging. Ele diz ao Git que você quer incluir atualizações a um arquivo específico no próximo commit. No entanto, Git add não tem efeito real e significativo no repositório, as alterações não são gravadas até você executar o Git commit.
 Junto com esses comandos, você também vai precisar do Git status para ver o estado do diretório ativo e da área de staging.
@@ -29,7 +29,7 @@ Junto com esses comandos, você também vai precisar do Git status para ver o es
 **Como funcinona o Git add:** Os comandos Git add e Git commit compõem o fluxo de trabalho fundamental do Git. Esses são os dois comandos que todo usuário do Git precisa entender. Eles são os meios de gravar versões de um projeto no histórico do repositório.
 O desenvolvimento de um projeto gira em torno do padrão básico editar/preparar/fazer commit. Primeiro, você edita os arquivos no diretório ativo. Quando estiver pronto para salvar uma cópia do estado atual do projeto, o usuário prepara as alterações com git add. Logo após que estiver satisfeito com a captura de tela montada, o usuário faz um commit no histórico do projeto com o git commit.
 
-### Descrevendo o terceiro comando. 
+### Terceiro comando. 
 
 **Git commit:** O comando Git commit captura um instantâneo das mudanças preparadas do projeto no momento. Os instantâneos com commit podem ser considerados versões "seguras" de um projeto, o Git nunca os altera, a menos que você peça a ele. Antes da execução de Git commit, o comando Git add é usado para promover ou "preparar" mudanças no projeto que são armazenadas em um commit.
 
