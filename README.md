@@ -12,7 +12,7 @@ Através dos estudos direcionados pelo Bootcamp da plataforma Dio em parceria co
 
 
 
-#### Links úteis: 
+#### Link útil: 
 
 [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
