@@ -36,6 +36,7 @@ O desenvolvimento de um projeto gira em torno do padrão básico editar/preparar
 **Como funciona o Git commit:** Em um nível alto, o Git pode ser considerado um utilitário de gerenciamento de cronograma. Os commits são as unidades estruturais de um cronograma de projeto Git. Podem ser considerados instantâneos ou marcos ao longo do cronograma de um projeto Git. São criados com o comando Git commit para capturar o estado de um projeto naquele momento.
 
 
-**Links úteis**
+
+**Link útel**
 
 [Saiba mais sobre os comandos do Git](https://www.atlassian.com/br/git/tutorials/saving-changes/git-commit#:~:text=O%20comando%20git%20commit%20%C3%A9,hist%C3%B3rico%20de%20projetos%20do%20Git.)
